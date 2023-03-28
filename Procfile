@@ -1,2 +1,2 @@
-web: gunicorn --pythonpath fenetre360 fenetre360.wsgi
+web: gunicorn --pythonpath sandbox sandbox.wsgi
 
